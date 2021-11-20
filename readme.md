@@ -1,4 +1,4 @@
-# Project Name
+# Lending club case study
 EDA Analysis on risky loan applicants
 
 ## Table of Contents
