@@ -17,6 +17,6 @@ Overall 6.27% of the credit loss could be saved
 
 ## Technologies Used
 - library - Python 3.0
-- 
+
 ## Contact
 Created by @githubpinksar - feel free to contact me!
